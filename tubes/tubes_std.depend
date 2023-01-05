@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:e:\tugas dan kerjaan\tubes_std\main.cpp
+	<iostream>
+
+1672630855 source:c:\users\alya nada\downloads\tubes_std\tubes.cpp
+	"tubes.h"
+
+1672631187 c:\users\alya nada\downloads\tubes_std\tubes.h
+	<iostream>
+
+1672631105 source:c:\users\alya nada\downloads\tubes_std\main.cpp
+	"tubes.h"
+
